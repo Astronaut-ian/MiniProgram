@@ -13,6 +13,6 @@ navigator {
 
 /* 变量实现主题颜色 */
 page {
-    --themeColor: #ec4452;
+    --themeColor: #e76a5d;
     font-size: 28rpx;
 }
